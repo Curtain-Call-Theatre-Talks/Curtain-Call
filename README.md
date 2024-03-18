@@ -13,7 +13,7 @@ This one page example uses the following patterns:
 
 ### See it at work!
 
-The project is published at <https://buas-media-interactive.github.io/prj4-group-template>
+The project is published at <https://curtain-call-theatre-talks.github.io/Curtain-Call/index.html>
 
 ### Create your own group website
 
