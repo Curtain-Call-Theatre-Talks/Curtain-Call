@@ -48,7 +48,8 @@ footer a:hover {
   font-family: 'Batangas Bold 700';
   font-style: normal;
   font-weight: normal;
-  src: url('css/Fonts/Batangas%20Bold%20700.ttf') format('truetype');
+  src:url( { site.url } https://github.com/Curtain-Call-Theatre-Talks/Curtain-Call/blob/main/css/Fonts/batangas-bold-700.ttf') format('truetype');
+
 }
 
 .custom-font {
