@@ -1,7 +1,14 @@
 /* Importing a Google Font */
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
+
+@font-face {
+  font-family: 'Batangas Bold 700';
+  src:url( 'css/fonts/batangas-bold-700.ttf') format('truetype');
+
+}
+	
 /* Changing the main font and background colour */
 
 body {
@@ -42,14 +49,6 @@ footer a:hover {
 		.02em .02em .02em white,
 		0 0 .2em white,
 		0 0 .5em white;
-}
-
-@font-face {
-  font-family: 'Batangas Bold 700';
-  font-style: normal;
-  font-weight: normal;
-  src:url( { site.url } https://github.com/Curtain-Call-Theatre-Talks/Curtain-Call/blob/main/css/Fonts/batangas-bold-700.ttf') format('truetype');
-
 }
 
 .custom-font {
