@@ -43,3 +43,21 @@ footer a:hover {
 		0 0 .2em white,
 		0 0 .5em white;
 }
+
+@font-face {
+  font-family: 'Batangas Bold 700';
+  font-style: normal;
+  font-weight: normal;
+  src: url('css/Fonts/Batangas%20Bold%20700.ttf') format('truetype');
+}
+
+.custom-font {
+    font-family: 'Batangas Bold 700', sans-serif; /* Apply the custom font family */
+}
+
+
+/* Apply the font to specific elements */
+body {
+    font-family: 'YourFontName', sans-serif; /* Fallback font */
+}
+
