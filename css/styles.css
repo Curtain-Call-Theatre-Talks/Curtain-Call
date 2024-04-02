@@ -1,8 +1,9 @@
 /* Importing a Google Font */
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
-
-@font-face {
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap')
+	
+;@font-face {
 	font-family: 'Batangas';
 	src: url("https://github.com/Curtain-Call-Theatre-Talks/Curtain-Call/blob/main/css/fonts/batangas-bold.woff")
 }
@@ -16,7 +17,7 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	font-family: "Batangas", sans-serif;
+	font-family: "Righteous", sans-serif;
 	background-color: #242424
 ;
 }
@@ -24,7 +25,7 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	font-family: "Batangas", sans-serif;
+	font-family: "Righteous", sans-serif;
 	background-color: #ff3131;
 }
 
@@ -50,7 +51,9 @@ footer a:hover {
 		0 0 .5em white;
 }
 
-.custom-font {
-    font-family: 'Batangas', sans-serif; /* Apply the custom font family */
+.righteous-regular {
+  font-family: "Righteous", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
