@@ -24,12 +24,14 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
+	font-family: "Batangas", sans-serif;
 	background-color: #ff3131;
 }
 
 /* Effect on social media buttons */
 
 footer a:hover {
+	font-family: "Batangas", sans-serif;
 	opacity: .5;
 }
 
