@@ -52,9 +52,3 @@ footer a:hover {
     font-family: 'Batangas', sans-serif; /* Apply the custom font family */
 }
 
-
-/* Apply the font to specific elements */
-body {
-    font-family: 'YourFontName', sans-serif; /* Fallback font */
-}
-
