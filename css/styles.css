@@ -9,13 +9,14 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: "Batangas", sans-serif;
+	font-family: "Nunito Sans", sans-serif;
 	background-color: #f1f2f2;
-}
 
+}
 /* Changing the background colour for the header */
 
 header {
+	font-family: "Batangas", sans-serif;
 	background-color: #242424
 ;
 }
