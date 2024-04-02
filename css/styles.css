@@ -2,17 +2,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
-
 @font-face {
-  font-family: 'Batangas Bold 700';
-  src:url( 'css/fonts/batangas-bold-700.ttf') format('truetype');
-
+	font-family: 'Batangas';
+	src: url("fonts/batangas-bold.woff")
 }
-	
 /* Changing the main font and background colour */
 
 body {
-	font-family: "Nunito Sans", sans-serif;
+	font-family: "Batangas", sans-serif;
 	background-color: #f1f2f2;
 }
 
