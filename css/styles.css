@@ -2,11 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap')
-	
-;@font-face {
-	font-family: 'Batangas';
-	src: url("https://github.com/Curtain-Call-Theatre-Talks/Curtain-Call/blob/main/css/fonts/batangas-bold.woff")
-}
+;
 /* Changing the main font and background colour */
 
 body {
