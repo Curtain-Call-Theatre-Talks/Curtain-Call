@@ -6,5 +6,5 @@ document.addEventListener('DOMContentLoaded', function() {
         var navbar = document.getElementById('navbar');
         // Set its display property to 'block' to make it visible
         navbar.style.display = 'block';
-    }, 5000); // 5000 milliseconds = 5 seconds
+    }, 50); // 5000 milliseconds = 5 seconds
 });
