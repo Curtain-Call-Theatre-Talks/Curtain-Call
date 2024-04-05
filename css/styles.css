@@ -95,5 +95,15 @@ footer a:hover {
 }
 
 #navbar {
-    display: none; /* Initially hide the navbar */
+    animation: fadeIn 3s ease; /* Fade in animation */
 }
+
+#footer {
+    animation: fadeIn 3s ease; /* Fade in animation */
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
