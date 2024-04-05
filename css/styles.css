@@ -53,6 +53,17 @@ footer a:hover {
   font-style: normal;
 }
 
+.righteous-regular-big {
+  font-family: "Righteous", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+}
+
+.righteous-regular-smol {
+  font-family: "Righteous", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+
 .back-video {
 	position: absolute;
 	right: 0;
