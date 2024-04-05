@@ -76,9 +76,15 @@ footer a:hover {
 	position: absolute;
 	right: 0;
 	bottom: 0;
-	z-index: -1;
-	
+	z-index: -1;	
 }
+
+ .button-container {
+            position: absolute;
+            top: 50%; /* Adjust as per your requirement */
+            left: 50%; /* Adjust as per your requirement */
+            transform: translate(-50%, -50%);
+        }
 
 @media (min-aspect-ratio: 16/9){
 	.back-video{
