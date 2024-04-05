@@ -93,3 +93,7 @@ footer a:hover {
 		height: 100%;
 	}
 }
+
+#navbar {
+    display: none; /* Initially hide the navbar */
+}
