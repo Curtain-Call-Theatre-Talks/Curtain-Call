@@ -18,7 +18,15 @@ header {
 ;
 }
 
+.custom-bg-red {
+    background-color: #ff3131;
+    color: black;
+}
+
+
 /* Changing the background color for the navigation bar */
+
+
 
 .navbar {
 	font-family: "Righteous", sans-serif;
