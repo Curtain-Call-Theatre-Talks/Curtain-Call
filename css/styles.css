@@ -81,7 +81,7 @@ footer a:hover {
 
  .button-container {
             position: absolute;
-            top: 50%; /* Adjust as per your requirement */
+            top: 65%; /* Adjust as per your requirement */
             left: 50%; /* Adjust as per your requirement */
             transform: translate(-50%, -50%);
         }
@@ -110,6 +110,7 @@ footer a:hover {
 
 #button {
     animation: fadeIn 3s ease; /* Fade in animation */
+}
 
 @keyframes fadeIn {
     from { opacity: 0; }
