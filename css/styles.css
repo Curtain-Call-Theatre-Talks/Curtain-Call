@@ -87,11 +87,12 @@ footer a:hover {
         }
 
 .bg-hero {
-  background-image: url(focused-seats.jpg'); /* Replace with your image path */
+  background-image: url("../images/carousel/focused-seats.png"); /* Replace with your image path */
   background-size: cover; /* Cover the entire area */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent repetition */
   background-attachment: fixed; /* Optional: makes the background image stay fixed when scrolling */
+	
 }
 
 header {
