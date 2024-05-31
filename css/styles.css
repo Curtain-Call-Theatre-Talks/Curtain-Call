@@ -86,6 +86,27 @@ footer a:hover {
             transform: translate(-50%, -50%);
         }
 
+.bg-hero {
+  background-image: url(focused-seats.jpg'); /* Replace with your image path */
+  background-size: cover; /* Cover the entire area */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repetition */
+  background-attachment: fixed; /* Optional: makes the background image stay fixed when scrolling */
+}
+
+header {
+  padding: 2rem 0;
+  text-align: center;
+  color: white;
+}
+
+header {
+  padding: 2rem 0;
+  text-align: center;
+  color: white;
+}
+
+
 @media (min-aspect-ratio: 16/9){
 	.back-video{
 		width: 100%;
