@@ -81,19 +81,25 @@ footer a:hover {
 
  .button-container {
             position: absolute;
-            top: 65%; /* Adjust as per your requirement */
-            left: 50%; /* Adjust as per your requirement */
+            top: 65%;
+            left: 50%;
             transform: translate(-50%, -50%);
         }
 
 .bg-hero {
-  background-image: url("../images/carousel/focused-seats.png"); /* Replace with your image path */
-  background-size: cover; /* Cover the entire area */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Prevent repetition */
-  background-attachment: fixed; /* Optional: makes the background image stay fixed when scrolling */
+  background-image: url("../images/carousel/focused-seats.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 	
 }
+
+.responsive-image {
+    max-width: 30%;
+    height: auto;
+}
+
 
 header {
   padding: 2rem 0;
