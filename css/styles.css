@@ -180,6 +180,11 @@ footer a:hover {
     height: auto;
 }
 
+.responsive-image3 {
+    max-width: 110%;
+    height: auto;
+}
+
 header {
   padding: 2rem 0;
   text-align: center;
