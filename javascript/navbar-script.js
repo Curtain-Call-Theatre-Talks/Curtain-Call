@@ -31,9 +31,5 @@ function showContent() {
     // automatic intro finish
     setTimeout(showContent, 9040);
 
-    // skip intro click
-    if(skip){
-        skip.addEventListener("click", showContent);
-    }
 
 });

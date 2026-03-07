@@ -123,6 +123,43 @@ footer a:hover {
     visibility: hidden;
 }
 
+.figma-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    background-color: black;
+    padding: 0px 10%;
+}
+
+.figma-text {
+    color: white;
+    max-width: 600px;
+	margin-top: -50px;
+	font-size: 1.2rem;
+}
+
+.app-features {
+	margin-top: 0px
+}
+
+.app-features {
+	font-size: 1.3rem;
+	font-weight: 600;
+	margin: 10 px 0;
+}
+
+.figma-demo iframe {
+    width: 90vw;
+    max-width: 450px;
+    aspect-ratio: 9 / 19.5;
+    border: none;
+}
+
+.features-title {
+	margin-top: 70px;
+}
+
 .bg-hero {
   background-image: url("../images/carousel/focused-seats.png");
   background-size: cover;
